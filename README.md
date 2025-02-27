@@ -10,6 +10,8 @@ of at least the specified number.
 3. Determines the publishing house that has released the largest number of printed items in the specified year.
 4. Builds a graph of the dependence of the circulation on the year for the specified periodical.
 
+# Project opening
+
 1. Clone the repository:
 
 Open the terminal and run the command:
