@@ -1,0 +1,17 @@
+release/add.o
+release/add2.o
+release/form.o
+release/main.o
+release/output.o
+release/output2.o
+release/output3.o
+release/qcustomplot.o
+release/widget.o
+release/moc_add.o
+release/moc_add2.o
+release/moc_form.o
+release/moc_output.o
+release/moc_output2.o
+release/moc_output3.o
+release/moc_qcustomplot.o
+release/moc_widget.o

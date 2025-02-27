@@ -1,0 +1,17 @@
+debug/add.o
+debug/add2.o
+debug/form.o
+debug/main.o
+debug/output.o
+debug/output2.o
+debug/output3.o
+debug/qcustomplot.o
+debug/widget.o
+debug/moc_add.o
+debug/moc_add2.o
+debug/moc_form.o
+debug/moc_output.o
+debug/moc_output2.o
+debug/moc_output3.o
+debug/moc_qcustomplot.o
+debug/moc_widget.o
