@@ -1,4 +1,7 @@
 # The-first-training-project
+
+This is the first training project from the BMSTU
+
 Created an information software system with a graphical interface in C++
 The database (file) contains information about printed publications. For
 each of them, the following are defined: name, year of publication, periodicity
