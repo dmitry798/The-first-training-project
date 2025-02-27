@@ -13,19 +13,5 @@ of at least the specified number.
 3. Determines the publishing house that has released the largest number of printed items in the specified year.
 4. Builds a graph of the dependence of the circulation on the year for the specified periodical.
 
-# Project opening
 
-1. Clone the repository:
-
-Open the terminal and run the command:
-
-git clone git clone git clone https://github.com/dmitry798/The-first-training-project
-.git
-
-By replacing username/project with the desired repository path.
-
-2. Open the project in Qt Creator:
-
-    Launch Qt Creator.
-    Select File → Open File or Project.
-    Open the project file with the extension practice.pro (for example, project.pro ).
+git clone https://github.com/dmitry798/The-first-training-project.git
