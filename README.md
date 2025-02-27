@@ -19,7 +19,8 @@ of at least the specified number.
 
 Open the terminal and run the command:
 
-git clone https://github.com/dmitry798/project.git
+git clone git clone git clone https://github.com/dmitry798/The-first-training-project
+.git
 
 By replacing username/project with the desired repository path.
 
